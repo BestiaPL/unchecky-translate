@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.pl = {
 	// Footer
 	
 	'Copyright © 2017 Reason Company Software Inc.':
-		'Copyright © 2017 Reason Company Software Inc. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
+		'Copyright © 2017 Reason Company Software Inc. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>, BestiaPL'
 	
 	// Legal
 	
@@ -55,7 +55,7 @@ jquery_lang_js.prototype.lang.pl = {
 	'Warns':
 		'Ostrzega',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Instalatory często próbują przemycić dodatkowe programy maskując je jako naturalną część instalacji. Unchecky ostrzega, gdy przypadkiem zaakceptujesz taką ofertę, co zmniejsza szanse przypadkowego zainstalowania niechcianego programu.',
+		'Instalatory aplikacji często próbują przemycić dodatkowe programy maskując je jako naturalną część instalacji. Unchecky ostrzega, gdy przypadkiem zaakceptujesz taką ofertę, co zmniejsza szanse przypadkowego zainstalowania niechcianego programu.',
 	
 	'Updates automatically':
 		'Aktualizuje się sam',
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.pl = {
 		'Prosimy wykorzystać w tym celu nasz portal <a href="http://unchecky.userecho.com/">UserEcho</a>',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Jak odinstalować Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
-		'',
+		'Unchecky można odinstalować z Panelu Sterowania, tak samo jak inne programy. Zobacz instrukcję dla for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10 (po angielsku)</a> lub <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7 (po angielsku)</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Jeżel standardowa metoda nie powiedzie się, spróbuj użyć <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, które zostało napisane aby usunąć uszkodzone instalacje Unchecky.',
 	
 	'I want to translate Unchecky.':
 		'Chciałbym przetłumaczyć Unchecky!',
